@@ -16,7 +16,7 @@ A comprehensive Laravel package for monitoring API responses and route access, d
 1. Install the package via Composer:
 
 ```bash
-composer require uptime/monitoring
+composer require uptime-uat/monitoring
 ```
 
 2. Publish the configuration and migrations:
