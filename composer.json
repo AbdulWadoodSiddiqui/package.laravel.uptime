@@ -1,5 +1,5 @@
 {
-    "name": "uptime/monitoring",
+    "name": "uptime-uat/monitoring",
     "description": "Laravel package for uptime monitoring and API logging",
     "type": "library",
     "license": "MIT",
@@ -29,6 +29,19 @@
                 "Uptime\\Monitoring\\MonitoringServiceProvider"
             ]
         }
+    },
+    "keywords": [
+        "laravel",
+        "monitoring",
+        "uptime",
+        "api",
+        "logging",
+        "performance"
+    ],
+    "homepage": "https://github.com/AbdulWadoodSiddiqui/web.uptime",
+    "support": {
+        "issues": "https://github.com/AbdulWadoodSiddiqui/web.uptime/issues",
+        "source": "https://github.com/AbdulWadoodSiddiqui/web.uptime"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
